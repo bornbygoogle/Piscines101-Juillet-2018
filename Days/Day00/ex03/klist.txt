@@ -1,0 +1,7 @@
+Credentials cache: API:37462
+        Principal: mintran@LE-101.FR
+
+  Issued                Expires               Principal
+Jul  2 13:42:09 2018  Jul  9 13:42:01 2018  krbtgt/LE-101.FR@LE-101.FR
+
+
